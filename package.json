@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is namasthe react by ranjith",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "ranjith",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.1.1",
+    "react-router-dom": "^7.1.1"
+  },
+  "devDependencies": {
+    "postcss": "^8.5.1",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.17"
+  }
+}
